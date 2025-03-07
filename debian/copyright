@@ -1,16 +1,16 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Business-ISSN
-Upstream-Contact: brian d foy <bdfoy@cpan.org>
+Upstream-Contact: brian d foy <briandfoy@pobox.com>
 Source: https://metacpan.org/release/Business-ISSN
 
 Files: *
-Copyright: 1999-2018, brian d foy <bdfoy@cpan.org>
+Copyright: 1999-2025, brian d foy <briandfoy@pobox.com>
 License: Artistic-2.0
 
 Files: debian/*
 Copyright: 2010, Lars Wirzenius <lars@catalyst.net.nz>
  2010, Robin Sheat <robin@catalyst.net.nz>
- 2012-2020, gregor herrmann <gregoa@debian.org>
+ 2012-2025, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic

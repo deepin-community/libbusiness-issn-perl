@@ -1,3 +1,32 @@
+libbusiness-issn-perl (1.008-1) unstable; urgency=medium
+
+  * Import upstream version 1.008.
+  * Update upstream email address.
+  * Update years of upstream and packaging copyright.
+  * Install new SECURITY.md document.
+  * Declare compliance with Debian Policy 4.7.0.
+
+ -- gregor herrmann <gregoa@debian.org>  Fri, 31 Jan 2025 22:48:09 +0100
+
+libbusiness-issn-perl (1.005-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + libbusiness-issn-perl: Add Multi-Arch: foreign.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Thu, 13 Oct 2022 20:51:42 +0100
+
+libbusiness-issn-perl (1.005-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 12 to 13.
+  * Update standards version to 4.6.0, no changes needed.
+
+  [ gregor herrmann ]
+  * Import upstream version 1.005.
+  * Update years of upstream and packaging copyright.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 20 Feb 2022 16:17:05 +0100
+
 libbusiness-issn-perl (1.004-1) unstable; urgency=medium
 
   * debian/copyright: replace tabs with spaces / remove trailing
